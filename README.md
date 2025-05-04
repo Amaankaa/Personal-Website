@@ -2,7 +2,7 @@
 
 Simple webpage crafted using pure HTML and CSS. A minimalistic showcase of structure and design.
 
-### Live Link: https://Amaankaa.github.io/Portfolio/
+### Live Link: https://Amaankaa.github.io/Personal-Website/
 
 ## Features
 
