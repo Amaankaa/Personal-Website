@@ -1,8 +1,8 @@
-# Sudharsan Portfolio
+# Amanuels Portfolio
 
 Simple webpage crafted using pure HTML and CSS. A minimalistic showcase of structure and design.
 
-### Live Link: https://danielace1.github.io/Portfolio/
+### Live Link: https://Amaankaa.github.io/Portfolio/
 
 ## Features
 
@@ -19,15 +19,3 @@ To switch between these themes, link the desired theme's CSS file in your HTML. 
 ```html
 <link rel="stylesheet" href="path/to/style-two.css" />
 ```
-
-#### Authors:
-
-- Special thanks to [Mr. Anbuselvan
-  Rocky](https://github.com/anburocky3) for his valuable mentorship.
-
-##### Connect with me on:
-
-- [Linked-in](https://www.linkedin.com/in/sudharsan-a-b40506290/)
-- [Instagram](https://instagram.com/sudharsan_daniel)
-- [Facebook](https"//https://www.facebook.com/sudharsandaniel.sudharsandaniel)
-- [Github](https://github.com/danielace1)
